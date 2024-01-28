@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ListsBenchmark": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Андрей\\Documents\\Repos\\SkillFactory\\ListsBenchmark\\Misc\\Text1.txt"
+    }
+  }
+}
